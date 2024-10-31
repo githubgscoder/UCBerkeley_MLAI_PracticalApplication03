@@ -29,7 +29,8 @@ To predict whether or not a person will subscribe to a term deposit that would h
 2. Train accuracy: 0.912, Test accuracy: 0.912
 
 ### Model Comparisons
-![image](https://github.com/user-attachments/assets/99f3f0fa-a195-4c86-8255-9e9db8ba30ed)
+  ![Screenshot 2024-10-30 215622](https://github.com/user-attachments/assets/2be64091-443b-47a7-9db2-32434b812cc0)
+
 
 Visualizations
   - Train time for different models
