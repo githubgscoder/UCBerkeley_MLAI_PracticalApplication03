@@ -1,0 +1,5 @@
+Model,Best Parameters,Train Accuracy,Test Accuracy,F1 Score,ROC AUC Score
+KNN,"{'classifier__n_neighbors': 7, 'classifier__weights': 'distance'}",1.0000,0.9004,0.4710,0.8913
+Logistic Regression,"{'classifier__C': 10, 'classifier__solver': 'liblinear'}",0.9119,0.9120,0.5203,0.9363
+Decision Tree,"{'classifier__max_depth': 5, 'classifier__min_samples_split': 10}",0.9174,0.9162,0.5959,0.9261
+SVM,"{'classifier__C': 10, 'classifier__kernel': 'rbf'}",0.9547,0.9107,0.5501,0.9204
